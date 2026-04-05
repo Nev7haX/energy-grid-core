@@ -1,5 +1,7 @@
 # Energy-Grid-Core
 
+[简体中文说明](README.zh-CN.md)
+
 Energy-Grid-Core is a simplified backend foundation for energy monitoring and device state management. It was extracted from reusable patterns in the `carbon` service, then cleaned to remove school-specific workflows, domain-specific coal logic, user/auth coupling, and sensitive interfaces. The result is a modular Python backend skeleton focused on four core capabilities:
 
 - device connection pooling
